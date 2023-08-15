@@ -223,16 +223,16 @@ URL: https://ruby-jealous-panda.cyclic.cloud/api/comments/:videos_id
       "video_id": "64d9d6261accf948a9f4bedc",
       "username": 'adani',
       "comment": 'hai',
-      "createdAt": ISODate("2023-08-14T07:31:18.929Z"),
-      "updatedAt": ISODate("2023-08-14T07:31:18.929Z"),
+      "createdAt": "2023-08-14T07:31:18.929Z",
+      "updatedAt": "2023-08-14T07:31:18.929Z",
     },
     {
       "_id": "64daf209b58b920b9b75999c",
       "video_id": "64d9d6261accf948a9f4bedd",
       "username": 'naufal',
       "comment": 'hai',
-      "createdAt": ISODate("2023-08-15T03:33:29.540Z"),
-      "updatedAt": ISODate("2023-08-15T03:33:29.540Z"),
+      "createdAt": "2023-08-15T03:33:29.540Z",
+      "updatedAt": "2023-08-15T03:33:29.540Z",
     },
   ]
 }
