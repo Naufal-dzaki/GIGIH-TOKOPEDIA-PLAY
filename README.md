@@ -64,7 +64,7 @@ yarn start
 ***End Point***
 ```bash
 Method: GET
-URL: http://localhost:8080/api/videos
+URL: https://ruby-jealous-panda.cyclic.cloud/api/videos
 ```
 
 ***Response:***
@@ -99,7 +99,7 @@ URL: http://localhost:8080/api/videos
 ***End Point***
 ```bash
 Method: GET
-URL: http://localhost:8080/api/videos/:id
+URL: https://ruby-jealous-panda.cyclic.cloud/api/videos/:id
 ```
 
 ***Response:***
@@ -143,7 +143,7 @@ URL: http://localhost:8080/api/videos/:id
 ***End Point***
 ```bash
 Method: GET
-URL: http://localhost:8080/api/products/:video_id
+URL: https://ruby-jealous-panda.cyclic.cloud/api/products/:video_id
 ```
 
 ***Response:***
@@ -184,7 +184,7 @@ URL: http://localhost:8080/api/products/:video_id
 ***End Point***
 ```bash
 Method: POST
-URL: http://localhost:8080/api/comments/
+URL: https://ruby-jealous-panda.cyclic.cloud/api/comments/
 ```
 
 ***body request:***
@@ -210,7 +210,7 @@ URL: http://localhost:8080/api/comments/
 ***End Point***
 ```bash
 Method: GET
-URL: http://localhost:8080/api/comments/:videos_id
+URL: https://ruby-jealous-panda.cyclic.cloud/api/comments/:videos_id
 ```
 
 ***Response:***
